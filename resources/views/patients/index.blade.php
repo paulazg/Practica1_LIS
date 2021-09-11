@@ -7,7 +7,7 @@
 @section('content')
     <h1>Lista de pacientes en el LIS con Blade</h1>
     <a class="btn btn-primary" href="patients/create">CREAR PACIENTE</a>
-    <h1>LISTADO DE PACIENTE</h1>
+    <h1>LISTADO DE PACIENTEs version 2</h1>
     <table class="table table-striped table-hover" id="patients">
         <thead>
             <tr>
